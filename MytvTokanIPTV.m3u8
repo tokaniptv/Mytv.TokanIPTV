@@ -42,8 +42,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
 
-#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://vectorise.net/logo/wp-content/uploads/2011/01/TV-Alhijrah-Emboss.png",TV Alhijrah
-https://live.mana2.my/TvAlhijrah/index.m3u8|User-Agent=Mozilla
+#EXTINF:-1 group-title="myFreeview: TV" ch-number="114" tvg-id="114" tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Radio_IKIM.png",TV IKIM
+https://edge-sg1.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="116" tvg-id="116" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png",Awesome TV
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71149
