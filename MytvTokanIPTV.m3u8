@@ -46,7 +46,7 @@ http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71149
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TVS
-https://stream.smg.my/live/tvs_1080p2628kbs/index.m3u8
+https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
 
 #EXTINF:-1 group-title="myFreeview: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
