@@ -71,6 +71,9 @@ https://ythls-v2.onrender.com/channel/UCcZg5r9hBqK_VPUT2I7eYVw.m3u8
 #EXTINF:-1 group-title="MYTV" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+#EXTINF:-1 group-title="MYTV" ch-number="119" tvg-id="119" tvg-chno="119" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV
+https://skyios.sky4k.top/S1G_010/playlist.m3u8
+
 #EXTINF:-1 group-title="MYTV" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
