@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 
-#EXTINF:-1 group-title="MYTV" ch-number="100" tvg-id="101" tvg-chno="100" tvg-logo="https://i.ibb.co/Z6dZdKc/Picsart-24-04-15-15-43-20-319.png",Tokan Stream
+#EXTINF:-1 group-title="MYTV" ch-number="100" tvg-id="100" tvg-chno="100" tvg-logo="https://i.ibb.co/Z6dZdKc/Picsart-24-04-15-15-43-20-319.png",Tokan Stream
 https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
@@ -17,7 +17,7 @@ https://live-streams-ssai-01.tonton.com.my/live/2dd2b7cd-1b34-4871-b669-57b5c9be
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/1732
 
-#EXTINF:-1 group-title="MYTV" ch-number="104" tvg-id="104" tvg-chno="104" tvg-logo="https://i.ibb.co/JKW9Vtg/Picsart-24-04-15-17-03-38-362.png",TV ALHIJRAH
+#EXTINF:-1 group-title="MYTV" ch-number="104" tvg-id="114" tvg-chno="104" tvg-logo="https://i.ibb.co/JKW9Vtg/Picsart-24-04-15-17-03-38-362.png",TV ALHIJRAH
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
 http://muka03.wanicelife.com:8880/3ca7153n01/sdfr34r34/71024
 
@@ -74,7 +74,7 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 group-title="MYTV" ch-number="119" tvg-id="119" tvg-chno="119" tvg-logo="https://selangortv.my/wp-content/uploads/2020/10/SelangorTV.2.png",Selangor TV
 https://skyios.sky4k.top/S1G_010/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="125" tvg-id="125" tvg-chno="125" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
+#EXTINF:-1 group-title="MYTV" ch-number="125" tvg-id="128" tvg-chno="125" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="126" tvg-id="126" tvg-chno="126" tvg-logo="https://i.postimg.cc/wBFj2rLb/download-2024-01-19-T210746-192.png",Travel&Taste
