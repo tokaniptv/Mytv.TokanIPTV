@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/tokaniptv/TokanStreamEPG/main/unifitv.xml" url-tvg="https://raw.githubusercontent.com/tokaniptv/TokanStreamEPG/main/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="MYTV" ch-number="100" tvg-id="100" tvg-chno="100" tvg-logo="https://i.ibb.co/Z6dZdKc/Picsart-24-04-15-15-43-20-319.png",Tokan Stream
 https://i.mjh.nz/SamsungTVPlus/USAJ34000175A.m3u8
