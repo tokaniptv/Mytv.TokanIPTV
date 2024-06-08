@@ -98,10 +98,13 @@ https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.co
 #EXTINF:-1 group-title="MYTV" ch-number="131" tvg-id="131" tvg-chno="131" tvg-logo="https://i.ibb.co/GC8W0Zw/Picsart-24-04-15-15-58-31-715.png",Movie Sphere
 https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="132" tvg-id="132" tvg-chno="132" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature
+#EXTINF:-1 group-title="MYTV" ch-number="132" tvg-id="132" tvg-chno="132" tvg-logo="https://github.com/Qingtvnew/test/raw/main/k.png",K+
+http://210.210.155.37/uq2663/h/h08/index.m3u8
+
+#EXTINF:-1 group-title="MYTV" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://i.ibb.co/QbWs7LM/Xite-hits.png",XITE HITS
+#EXTINF:-1 group-title="MYTV" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://i.ibb.co/QbWs7LM/Xite-hits.png",XITE HITS
 https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
 
 #EXTINF:-1 group-title="MYTV:Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
