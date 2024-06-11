@@ -101,9 +101,6 @@ https://linearfast06.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 group-title="MYTV" ch-number="132" tvg-id="132" tvg-chno="132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/Sooka_Oh_My_Ceria.png",Oh My Ceria!
 https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_7_Ad/dash.mpd
 
-#EXTINF:-1 group-title="MYTV" ch-number="133" tvg-id="133" tvg-chno="133" tvg-logo="https://i.ibb.co/hCHkrDT/Picsart-24-06-11-11-35-55-640.png",Tayo+
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
-
 #EXTINF:-1 group-title="MYTV" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://i.ibb.co/GC8W0Zw/Picsart-24-04-15-15-58-31-715.png",Movie Sphere
 https://i.mjh.nz/SamsungTVPlus/GBBA33000557H.m3u8
 
@@ -118,6 +115,9 @@ https://i.mjh.nz/SamsungTVPlus/USBD3300004RH.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="138" tvg-id="138" tvg-chno="138" tvg-logo="https://i.ibb.co/b5DT90S/Picsart-24-06-09-11-05-18-413.png",Moonbug Kids
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://i.ibb.co/hCHkrDT/Picsart-24-06-11-11-35-55-640.png",Tayo+
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00640-lydnetwork-tayoplus-dash-sooka/index.mpd
 
 #EXTINF:-1 group-title="INDONESIA" ch-number="141" tvg-id="141" tvg-chno="141" tvg-logo="https://i.ibb.co/J2dZTtM/Picsart-24-06-09-10-07-43-888.png",Trans TV
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
