@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/tokaniptv/TokanStreamEPG/main/unifitv.xml" url-tvg="https://raw.githubusercontent.com/tokaniptv/TokanStreamEPG/main/unifitv.xml" refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 group-title="MYTV" ch-number="100" tvg-id="100" tvg-chno="100" tvg-logo="https://i.ibb.co/Z6dZdKc/Picsart-24-04-15-15-43-20-319.png",Tokan Stream
-https://cca0faa1668740379640339007b036ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_ThePreviewChannel/playlist.m3u8?ads.wurl_channel=501&ads.wurl_name=ThePreviewChannel&ads.us_privacy=1YNY&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=0
+https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png",TV1
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
