@@ -125,7 +125,7 @@ https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 #EXTINF:-1 group-title="INDONESIA" ch-number="142" tvg-id="142" tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/7/70/Trans_7.png",Trans 7
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
-#EXTINF:-1 group-title="INDONESIA" ch-number="143" tvg-id="143" tvg-chno="143" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI
+#EXTINF:-1 group-title="INDONESIA" ch-number="143" tvg-id="143" tvg-chno="143" tvg-logo="https://i.ibb.co/S37Z8YN/Photoroom-20240724-020057.png",RCTI
 http://iptvtree.net:8080/F14995/a84c0963/157591
 
 #EXTINF:-1 group-title="MYTV:Radio" ch-number="701" tvg-id="701" tvg-chno="701" tvg-logo="https://rtmklik.rtm.gov.my/img/radio-nasional.21cbcdbf.jpg",Nasional FM
