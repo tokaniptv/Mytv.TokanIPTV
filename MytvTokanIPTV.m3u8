@@ -19,7 +19,7 @@ http://toh-users.xyz:8080/42204120/16250164/856918
 
 #EXTINF:-1 group-title="MYTV" ch-number="104" tvg-id="114" tvg-chno="104" tvg-logo="https://i.ibb.co/JKW9Vtg/Picsart-24-04-15-17-03-38-362.png",TV ALHIJRAH
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056637&autoplay=1&mute=0
-https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11edbc052354c95d3ff1/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/TvAlhijrah/index.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Parliament_Of_Malaysia.svg/1024px-Parliament_Of_Malaysia.svg.png",Parlimen Malaysia
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/playlist.m3u8?id=7
@@ -49,7 +49,7 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
 #EXTINF:-1 group-title="MYTV" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TVS
-https://stream2.smg.my/live/tvs_1080p2628kbs/index.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Tvs/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 #EXTVLCOPT:http-referrer=https://live-xtra-sg1.global.ssl.fastly.net/embed/index.html?vid=11056648&autoplay=1&mute=0
