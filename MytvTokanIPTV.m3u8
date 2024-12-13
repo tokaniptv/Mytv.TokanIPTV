@@ -179,7 +179,7 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 #EXTINF:-1 group-title="MYTV:Radio" ch-number="726" tvg-chno="726" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=233559647",Manis FM
 https://live.mana2.my/ManisFm/index.m3u8|User-Agent=Mozilla
 
-#EXTINF:-1 group-title="MYTV:Radio" ch-number="821" tvg-chno="821" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Manis FM
+#EXTINF:-1 group-title="MYTV:Radio" ch-number="821" tvg-chno="821" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Era FM
 https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV:Radio" tvg-id="822" tvg-name="822" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",Hitz Fm
