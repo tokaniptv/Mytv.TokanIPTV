@@ -167,7 +167,7 @@ https://mediaprima.rastream.com/mediaprima-hotfm
 #EXTINF:-1 group-title="MYTV:Radio" ch-number="722" tvg-chno="722" tvg-logo="https://assets-mpa.kool101.audio/media/Logo/profile_photo_1000x1000-03.jpg",Kool 101
 https://mediaprima.rastream.com/mediaprima-koolfm
 
-#EXTINF:-1 group-title="MYTV:Radio" ch-number="724" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
+#EXTINF:-1 group-title="MYTV:Radio" ch-number="723" tvg-chno="723" tvg-logo="https://assets-mpa.flyfm.audio/media/Logo/profile_photo_1000x1000-04.jpg",Fly FM
 https://mediaprima.rastream.com/mediaprima-flyfm
 
 #EXTINF:-1 group-title="MYTV:Radio" ch-number="724" tvg-chno="724" tvg-logo="https://assets-mpa.8fm.audio/media/Logo/profile_photo_1000x1000-05.jpg",8FM
@@ -178,3 +178,15 @@ https://mediaprima.rastream.com/mediaprima-molekfm
 
 #EXTINF:-1 group-title="MYTV:Radio" ch-number="726" tvg-chno="726" tvg-logo="https://api.mana2.my/image/image_gallery?img_id=233559647",Manis FM
 https://live.mana2.my/ManisFm/index.m3u8|User-Agent=Mozilla
+
+#EXTINF:-1 group-title="MYTV:Radio" ch-number="821" tvg-chno="821" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Era.png",Manis FM
+https://mifntechnology.github.io/siaranMy/radio/Era/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV:Radio" tvg-id="822" tvg-name="822" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HitzFm.png",Hitz Fm
+https://mifntechnology.github.io/siaranMy/radio/HitzFm/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV:Radio" tvg-id="823" tvg-name="823" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Suria.png",SuriaFm
+https://mifntechnology.github.io/siaranMy/radio/SuriaFm/playlist.m3u8
+
+#EXTINF:-1 group-title="MYTV:Radio" tvg-id="824" tvg-name="824" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/SinarFm.png",SinarFm
+https://mifntechnology.github.io/siaranMy/radio/SinarFm/playlist.m3u8
