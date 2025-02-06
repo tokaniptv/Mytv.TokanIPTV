@@ -113,6 +113,9 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="MYTV" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Pawn_Stars_logo-large.png",Pawn Stars
 https://jmp2.uk/sam-US300003S3.m3u8
 
+#EXTINF:-1 group-title="MYTV" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://i.ibb.co/bg1ynSX3/Photoroom-20250207-001728.png",American Pickers
+https://jmp2.uk/sam-USBD3500041ZF.m3u8
+
 #EXTINF:-1 group-title="MYTV" ch-number="137" tvg-id="137" tvg-chno="137" tvg-logo="https://i.ibb.co/QbWs7LM/Xite-hits.png",XITE HITS
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 
