@@ -104,6 +104,9 @@ https://linearfast07.playback.sooka.my/v1/dash/7d6144f66f990e10fc667942d522b82f8
 #EXTINF:-1 group-title="MYTV" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://i.ibb.co/GC8W0Zw/Picsart-24-04-15-15-58-31-715.png",Movie Sphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="MYTV" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://i.ibb.co/DDCBD9FC/images-2.png",Pluto Fantastic
+https://jmp2.uk/sam-USBA300017PK.m3u8
+
 #EXTINF:-1 group-title="MYTV" ch-number="135" tvg-id="135" tvg-chno="135" tvg-logo="https://i.postimg.cc/MGnz9vr3/Picsart-24-07-31-21-00-20-172.png",K-Drama
 http://mytv.dothome.co.kr/ch/catv/7.php
 
