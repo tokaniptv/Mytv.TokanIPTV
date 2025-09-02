@@ -48,8 +48,8 @@ https://488b9e074624.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.
 #EXTINF:-1 group-title="MYTV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",OKEY
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-#EXTINF:-1 group-title="MYTV" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TVS
-https://mifntechnology.github.io/siaranMy/channels/Tvs/playlist.m3u8
+#EXTINF:-1 group-title="MYTV" ch-number="112" tvg-id="112" tvg-chno="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/TVS_logo_%282024%29.png",TVS+
+https://stream2.smg.my/live/tvsplus.m3u8
 
 #EXTINF:-1 group-title="siaranMy" tvg-id="TVS"  tvg- tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tvs.jpg",TVS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
