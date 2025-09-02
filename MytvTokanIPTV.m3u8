@@ -111,7 +111,7 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="134" tvg-id="134" tvg-chno="134" tvg-logo="https://i.ibb.co/QFMtG3FD/Photoroom-20250212-001203.png",Pluto Fantastic
-https://jmp2.uk/sam-USBA300017PK.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2aed45-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46d9eb84-1a99-477f-99be-7f761b922cd2
 
 #EXTINF:-1 group-title="MYTV" ch-number="135" tvg-id="135" tvg-chno="135" tvg-logo="https://i.postimg.cc/MGnz9vr3/Picsart-24-07-31-21-00-20-172.png",K-Drama
 http://mytv.dothome.co.kr/ch/catv/7.php
