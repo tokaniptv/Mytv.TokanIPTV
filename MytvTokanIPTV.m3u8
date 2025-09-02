@@ -129,7 +129,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/636c2b3c55d2e700074105c4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f22-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=45ec09d8-36de-4581-9848-35cbe70a0eb0
 
 #EXTINF:-1 group-title="MYTV" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://i.ibb.co/bg1ynSX3/Photoroom-20250207-001728.png",American Pickers
-https://apollo.production-public.tubi.io/live/ac-american-pickers.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6408ae8f9b39550008caf94f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c791c22-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3b9fb3b4-161b-4a0e-a380-58f96557a8b2
+
 
 #EXTINF:-1 group-title="MYTV" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://i.ibb.co/6R2ZhD2s/Photoroom-20250207-010206.png",Storage Wars
 https://jmp2.uk/sam-USBD1700006T2.m3u8
