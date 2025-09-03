@@ -122,7 +122,7 @@ http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 group-title="MYTV" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",BBC Earth
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/656535fc2c46f30008870fae/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26ce98-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=73fe2b3e-3885-4bd2-874c-cc5f2153e555
 
-#EXTINF:-1 group-title="MYTV" ch-number="135" tvg-id="135" tvg-chno="135" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_463.png",Love Nature
+#EXTINF:-1 group-title="MYTV" ch-number="135" tvg-id="135" tvg-chno="135" tvg-logo="https://iili.io/KBC7RUB.md.png",Love Nature
 https://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="136" tvg-id="136" tvg-chno="136" tvg-logo="https://i.ibb.co/4Zk8bCPk/Photoroom-20250207-004910.png",Wicked Tuna
