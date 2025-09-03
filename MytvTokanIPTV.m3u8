@@ -72,7 +72,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 
 #EXTINF:-1 group-title="MYTV" ch-number="117" tvg-id="117" tvg-chno="117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Bernama_TV.png",Bernama
-https://mifntechnology.github.io/siaranMy/channels/Bernama/playlist.m3u8
+https://mifntechnology.github.io/siaranMy/channels/Bernama/index.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="118" tvg-id="118" tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/Astro_Awani.png",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
