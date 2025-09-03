@@ -147,7 +147,7 @@ https://moonbug-rokuus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="MYTV" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/CARTOON_NETWORK_logo.png",Cartoon Network
 https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 
-#EXTINF:-1 group-title="MYTV" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://i.ibb.co/pr43KtJ7/Photoroom-20250902-233810.png",One Piece Marathon
+#EXTINF:-1 group-title="MYTV" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://iili.io/KB3sc1R.md.png",One Piece Marathon
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c
 
 #EXTINF:-1 group-title="MYTV" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://i.ibb.co/xSCdLLqt/Photoroom-20250207-002919.png",BeIN Sports Extra
