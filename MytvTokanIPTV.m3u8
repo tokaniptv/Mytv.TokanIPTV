@@ -157,7 +157,7 @@ https://mifntechnology.github.io/siaranMy/channels/CartoonNetwork/index.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f7790b3ed0c88000720b241/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7816-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4b38ba42-6f97-4a17-b657-1277978d366c
 
 #EXTINF:-1 group-title="MYTV" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://i.ibb.co/xSCdLLqt/Photoroom-20250207-002919.png",BeIN Sports Extra
-https://jmp2.uk/sam-CABA8000043F.m3u8
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="139" tvg-id="139" tvg-chno="139" tvg-logo="https://i.ibb.co/qLGQFq6d/UFC-logo-01.png",UFC
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
