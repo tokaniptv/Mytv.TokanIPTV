@@ -83,7 +83,7 @@ https://skyios.sky4k.top/S1G_010/playlist.m3u8
 #EXTINF:-1 group-title="MYTV" ch-number="124" tvg-id="124" tvg-chno="125" tvg-logo="https://i.ibb.co/jT2h6Nb/Unifi-Sports2023.png",Unifi Sports
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
-#EXTINF:-1 group-title="MYTV" ch-number="124" tvg-id="124" tvg-chno="125" tvg-logo="https://i.ibb.co/jT2h6Nb/Unifi-Sports2023.png",Bollywood HD
+#EXTINF:-1 group-title="MYTV" ch-number="124" tvg-id="124" tvg-chno="125" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Bollywood_HD_%282018%29.svg/revision/latest?cb=20181116224348",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
 #EXTINF:-1 group-title="MYTV" ch-number="125" tvg-id="128" tvg-chno="125" tvg-logo="https://i.ibb.co/6782ZZYr/Photoroom-20250902-234756.png",Dunia Sinema
